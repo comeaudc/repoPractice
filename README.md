@@ -20,3 +20,8 @@
     -   when in alternative branch all changes are saved/commited only to that branch
 
 *** DO NOT MAKE CHANGES TO BOTH BRANCHES ***
+
+## Git Merging
+-   Merging is the process of combining a secondary branch with the main/master branch
+1.  Switch to branch you want to merge into (usually main branch)
+2.  `git merge <name of branch to merge>` - combines secondary branch into main
