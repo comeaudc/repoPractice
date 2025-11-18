@@ -21,7 +21,11 @@
 
 *** DO NOT MAKE CHANGES TO BOTH BRANCHES ***
 
-## Git Merging
+## Git Merging:
 -   Merging is the process of combining a secondary branch with the main/master branch
 1.  Switch to branch you want to merge into (usually main branch)
 2.  `git merge <name of branch to merge>` - combines secondary branch into main
+
+# Git Clone:
+1.  In terminal, navigate to folder you want to clone code in to.
+2.  Run command, `git clone <https url from github here> opt_new_name_for_folder`
