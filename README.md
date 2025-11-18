@@ -17,3 +17,6 @@
 1.  `git branch <name of new branch>` - create a new branch
 2.  `git checkout` to see what branch we are on
 3.  `git checkout <name of branch>` - to switch to different branch
+    -   when in alternative branch all changes are saved/commited only to that branch
+
+*** DO NOT MAKE CHANGES TO BOTH BRANCHES ***
