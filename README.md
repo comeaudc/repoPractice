@@ -4,10 +4,13 @@
 3.  `git remote add origin <github http url>`
 4.   to test run `git remote -v` - shows if remote repository is connected
 
-## How to create / push commits
+## How to create / push commits:
 1.  `git add .` - means git add everything, all saved changes
 2.  `git commit -m "Commit message here"`
 3.  `git push origin main/master` or `git push origin main/master -u`
 
 
 *** If you use `-u` upstream flag, all subsequent/further commits you use `git push` instead of `git push origin main`
+
+
+# Branching your repo:
