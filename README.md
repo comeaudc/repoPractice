@@ -29,3 +29,7 @@
 # Git Clone:
 1.  In terminal, navigate to folder you want to clone code in to.
 2.  Run command, `git clone <https url from github here> opt_new_name_for_folder`
+
+# Git Pull:
+1.  In terminal, directory should be the repo you want to update
+2.  Run command, `git pull`
